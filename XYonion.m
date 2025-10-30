@@ -80,9 +80,9 @@ m0 = length(i0);
 nc = ceil(m0*fraction);
 nt = m0-nc;
 irem=[repmat(1,nc,1); repmat(0,nt,1)];
-irem=shuffle(irem);
+irem=irem(randperm(length(irem)));
 split(i0) = irem';
-split = logical(split);
+split = logical(split)';
 
     function isel = distslct_xyonion(x,y,nosamps)
     %DISTSLCT Selects outter samples of data space.
