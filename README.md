@@ -51,6 +51,6 @@ If you use this code, please cite:
 
 ## License
 
-The MATLAB code is dedicated to the public domain under [CC0 1.0 Universal](LICENSE.txt). Reuse, modification, and redistribution are permitted for any purpose, including commercially. Citation of the associated article is appreciated but is not a requirement of CC0.
+The MATLAB code is licensed under the [MIT License](LICENSE.txt). Reuse, modification, and redistribution are permitted, including for commercial purposes, provided that the copyright notice and license text are retained.
 
-The included research article is published under CC BY-NC-ND 4.0, as stated in the PDF, and is not covered by the code's CC0 dedication.
+The included research article remains subject to its published CC BY-NC-ND 4.0 license, as stated in the PDF, and is not covered by the code's MIT License.
